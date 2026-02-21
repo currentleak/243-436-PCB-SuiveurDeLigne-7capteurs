@@ -57,7 +57,7 @@ $LIMMAX
  10
 226.8741589
  20
-61.41833537999999
+60.91050047999999
   9
 $ORTHOMODE
  70
@@ -493,19 +493,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2461093.520350312
+2461093.766702326
   9
 $TDUCREATE
  40
-2461093.728683646
+2461093.97503566
   9
 $TDUPDATE
  40
-2461093.520351018
+2461093.766703032
   9
 $TDUUPDATE
  40
-2461093.728684352
+2461093.975036366
   9
 $TDINDWG
  40
@@ -553,7 +553,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-217
+212
   9
 $SURFTAB1
  70
@@ -933,7 +933,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{0b728d53-2b3f-4f5d-8f1f-cc9446fc54e5}
+{9e7e39bb-578e-414d-9893-f003dfebd151}
   9
 $VERSIONGUID
   2
@@ -1835,7 +1835,7 @@ AcDbBlockTableRecord
   0
 BLOCK_RECORD
   5
-118
+113
 330
 1
 100
@@ -1849,7 +1849,7 @@ R_1608_0603__B_121
 102
 {BLKREFS
 331
-119
+114
 102
 }
  70
@@ -1861,7 +1861,7 @@ R_1608_0603__B_121
   0
 BLOCK_RECORD
   5
-11A
+115
 330
 1
 100
@@ -1875,7 +1875,7 @@ R_1005_0402__B_122
 102
 {BLKREFS
 331
-11B
+116
 102
 }
  70
@@ -1887,7 +1887,7 @@ R_1005_0402__B_122
   0
 BLOCK_RECORD
   5
-11C
+117
 330
 1
 100
@@ -1901,7 +1901,7 @@ R_1005_0402__B_123
 102
 {BLKREFS
 331
-11D
+118
 102
 }
  70
@@ -1913,7 +1913,7 @@ R_1005_0402__B_123
   0
 BLOCK_RECORD
   5
-11E
+119
 330
 1
 100
@@ -1927,7 +1927,7 @@ C_1608_0603__124
 102
 {BLKREFS
 331
-11F
+11A
 102
 }
  70
@@ -1939,7 +1939,7 @@ C_1608_0603__124
   0
 BLOCK_RECORD
   5
-120
+11B
 330
 1
 100
@@ -1953,7 +1953,7 @@ C_1608_0603__125
 102
 {BLKREFS
 331
-121
+11C
 102
 }
  70
@@ -1965,7 +1965,7 @@ C_1608_0603__125
   0
 BLOCK_RECORD
   5
-122
+11D
 330
 1
 100
@@ -1979,7 +1979,7 @@ C_1608_0603__126
 102
 {BLKREFS
 331
-123
+11E
 102
 }
  70
@@ -1991,7 +1991,7 @@ C_1608_0603__126
   0
 BLOCK_RECORD
   5
-124
+11F
 330
 1
 100
@@ -2005,7 +2005,7 @@ C_1608_0603__127
 102
 {BLKREFS
 331
-125
+120
 102
 }
  70
@@ -2017,7 +2017,7 @@ C_1608_0603__127
   0
 BLOCK_RECORD
   5
-126
+121
 330
 1
 100
@@ -2031,7 +2031,7 @@ C_1608_0603__128
 102
 {BLKREFS
 331
-127
+122
 102
 }
  70
@@ -2043,7 +2043,7 @@ C_1608_0603__128
   0
 BLOCK_RECORD
   5
-128
+123
 330
 1
 100
@@ -2057,7 +2057,7 @@ C_1608_0603__129
 102
 {BLKREFS
 331
-129
+124
 102
 }
  70
@@ -2069,7 +2069,7 @@ C_1608_0603__129
   0
 BLOCK_RECORD
   5
-12A
+125
 330
 1
 100
@@ -2083,7 +2083,7 @@ C_1608_0603__130
 102
 {BLKREFS
 331
-12B
+126
 102
 }
  70
@@ -2095,7 +2095,7 @@ C_1608_0603__130
   0
 BLOCK_RECORD
   5
-12C
+127
 330
 1
 100
@@ -2109,7 +2109,7 @@ C_2012_0805__B_131
 102
 {BLKREFS
 331
-12D
+128
 102
 }
  70
@@ -2121,7 +2121,7 @@ C_2012_0805__B_131
   0
 BLOCK_RECORD
   5
-12E
+129
 330
 1
 100
@@ -2135,7 +2135,7 @@ SOIC127P1030X265_16N_B_132
 102
 {BLKREFS
 331
-12F
+12A
 102
 }
  70
@@ -2147,7 +2147,7 @@ SOIC127P1030X265_16N_B_132
   0
 BLOCK_RECORD
   5
-130
+12B
 330
 1
 100
@@ -2161,7 +2161,7 @@ SOT_323_B_133
 102
 {BLKREFS
 331
-131
+12C
 102
 }
  70
@@ -2173,7 +2173,7 @@ SOT_323_B_133
   0
 BLOCK_RECORD
   5
-132
+12D
 330
 1
 100
@@ -2187,7 +2187,7 @@ SOT_323_B_134
 102
 {BLKREFS
 331
-133
+12E
 102
 }
  70
@@ -2199,7 +2199,7 @@ SOT_323_B_134
   0
 BLOCK_RECORD
   5
-134
+12F
 330
 1
 100
@@ -2213,7 +2213,7 @@ SOT_323_B_135
 102
 {BLKREFS
 331
-135
+130
 102
 }
  70
@@ -2225,7 +2225,7 @@ SOT_323_B_135
   0
 BLOCK_RECORD
   5
-136
+131
 330
 1
 100
@@ -2239,7 +2239,7 @@ SOT_323_B_136
 102
 {BLKREFS
 331
-137
+132
 102
 }
  70
@@ -2251,7 +2251,7 @@ SOT_323_B_136
   0
 BLOCK_RECORD
   5
-138
+133
 330
 1
 100
@@ -2265,7 +2265,7 @@ SOT_323_B_137
 102
 {BLKREFS
 331
-139
+134
 102
 }
  70
@@ -2277,7 +2277,7 @@ SOT_323_B_137
   0
 BLOCK_RECORD
   5
-13A
+135
 330
 1
 100
@@ -2291,7 +2291,7 @@ SOT_323_B_138
 102
 {BLKREFS
 331
-13B
+136
 102
 }
  70
@@ -2303,7 +2303,7 @@ SOT_323_B_138
   0
 BLOCK_RECORD
   5
-13C
+137
 330
 1
 100
@@ -2317,7 +2317,7 @@ SOT_323_B_139
 102
 {BLKREFS
 331
-13D
+138
 102
 }
  70
@@ -2329,7 +2329,7 @@ SOT_323_B_139
   0
 BLOCK_RECORD
   5
-13E
+139
 330
 1
 100
@@ -2343,7 +2343,7 @@ C_1608_0603__B_140
 102
 {BLKREFS
 331
-13F
+13A
 102
 }
  70
@@ -2355,7 +2355,7 @@ C_1608_0603__B_140
   0
 BLOCK_RECORD
   5
-140
+13B
 330
 1
 100
@@ -2369,7 +2369,7 @@ GP2S700HCP_B_141
 102
 {BLKREFS
 331
-141
+13C
 102
 }
  70
@@ -2381,7 +2381,7 @@ GP2S700HCP_B_141
   0
 BLOCK_RECORD
   5
-142
+13D
 330
 1
 100
@@ -2395,7 +2395,7 @@ GP2S700HCP_B_142
 102
 {BLKREFS
 331
-143
+13E
 102
 }
  70
@@ -2407,7 +2407,7 @@ GP2S700HCP_B_142
   0
 BLOCK_RECORD
   5
-144
+13F
 330
 1
 100
@@ -2421,7 +2421,7 @@ GP2S700HCP_B_143
 102
 {BLKREFS
 331
-145
+140
 102
 }
  70
@@ -2433,7 +2433,7 @@ GP2S700HCP_B_143
   0
 BLOCK_RECORD
   5
-146
+141
 330
 1
 100
@@ -2447,7 +2447,7 @@ GP2S700HCP_B_144
 102
 {BLKREFS
 331
-147
+142
 102
 }
  70
@@ -2459,7 +2459,7 @@ GP2S700HCP_B_144
   0
 BLOCK_RECORD
   5
-148
+143
 330
 1
 100
@@ -2473,7 +2473,7 @@ R_1608_0603__145
 102
 {BLKREFS
 331
-149
+144
 102
 }
  70
@@ -2485,7 +2485,7 @@ R_1608_0603__145
   0
 BLOCK_RECORD
   5
-14A
+145
 330
 1
 100
@@ -2499,7 +2499,7 @@ R_1608_0603__146
 102
 {BLKREFS
 331
-14B
+146
 102
 }
  70
@@ -2511,7 +2511,7 @@ R_1608_0603__146
   0
 BLOCK_RECORD
   5
-14C
+147
 330
 1
 100
@@ -2525,7 +2525,7 @@ R_1608_0603__147
 102
 {BLKREFS
 331
-14D
+148
 102
 }
  70
@@ -2537,7 +2537,7 @@ R_1608_0603__147
   0
 BLOCK_RECORD
   5
-14E
+149
 330
 1
 100
@@ -2551,7 +2551,7 @@ R_1608_0603__B_148
 102
 {BLKREFS
 331
-14F
+14A
 102
 }
  70
@@ -2563,7 +2563,7 @@ R_1608_0603__B_148
   0
 BLOCK_RECORD
   5
-150
+14B
 330
 1
 100
@@ -2577,7 +2577,7 @@ R_1608_0603__149
 102
 {BLKREFS
 331
-151
+14C
 102
 }
  70
@@ -2589,7 +2589,7 @@ R_1608_0603__149
   0
 BLOCK_RECORD
   5
-152
+14D
 330
 1
 100
@@ -2603,7 +2603,7 @@ R_1608_0603__150
 102
 {BLKREFS
 331
-153
+14E
 102
 }
  70
@@ -2615,7 +2615,7 @@ R_1608_0603__150
   0
 BLOCK_RECORD
   5
-154
+14F
 330
 1
 100
@@ -2629,201 +2629,201 @@ R_1608_0603__151
 102
 {BLKREFS
 331
+150
+102
+}
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+151
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+R_3216_1206__B_152
+340
+0
+102
+{BLKREFS
+331
+152
+102
+}
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+153
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+R_3216_1206__B_153
+340
+0
+102
+{BLKREFS
+331
+154
+102
+}
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
 155
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+R_3216_1206__B_154
+340
+0
 102
-}
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
+{BLKREFS
+331
 156
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-R_2012_0805__B_152
-340
-0
 102
-{BLKREFS
-331
+}
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
 157
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+R_3216_1206__B_155
+340
+0
 102
-}
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
+{BLKREFS
+331
 158
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-R_2012_0805__B_153
-340
-0
 102
-{BLKREFS
-331
+}
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
 159
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+R_3216_1206__B_156
+340
+0
 102
-}
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
+{BLKREFS
+331
 15A
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-R_2012_0805__B_154
-340
-0
 102
-{BLKREFS
-331
+}
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
 15B
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+R_3216_1206__B_157
+340
+0
 102
-}
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
+{BLKREFS
+331
 15C
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-R_2012_0805__B_155
-340
-0
 102
-{BLKREFS
-331
+}
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
 15D
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+R_3216_1206__B_158
+340
+0
 102
-}
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
+{BLKREFS
+331
 15E
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-R_2012_0805__B_156
-340
-0
 102
-{BLKREFS
-331
+}
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
 15F
-102
-}
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-160
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-R_2012_0805__B_157
-340
-0
-102
-{BLKREFS
-331
-161
-102
-}
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-162
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-R_2012_0805__B_158
-340
-0
-102
-{BLKREFS
-331
-163
-102
-}
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-164
 330
 1
 100
@@ -2837,7 +2837,7 @@ R_1608_0603__B_159
 102
 {BLKREFS
 331
-165
+160
 102
 }
  70
@@ -2849,7 +2849,7 @@ R_1608_0603__B_159
   0
 BLOCK_RECORD
   5
-166
+161
 330
 1
 100
@@ -2863,7 +2863,7 @@ R_1608_0603__B_160
 102
 {BLKREFS
 331
-167
+162
 102
 }
  70
@@ -2875,7 +2875,7 @@ R_1608_0603__B_160
   0
 BLOCK_RECORD
   5
-168
+163
 330
 1
 100
@@ -2889,7 +2889,7 @@ R_1608_0603__B_161
 102
 {BLKREFS
 331
-169
+164
 102
 }
  70
@@ -2901,7 +2901,7 @@ R_1608_0603__B_161
   0
 BLOCK_RECORD
   5
-16A
+165
 330
 1
 100
@@ -2915,7 +2915,7 @@ R_1608_0603__B_162
 102
 {BLKREFS
 331
-16B
+166
 102
 }
  70
@@ -2927,7 +2927,7 @@ R_1608_0603__B_162
   0
 BLOCK_RECORD
   5
-16C
+167
 330
 1
 100
@@ -2941,7 +2941,7 @@ R_1608_0603__B_163
 102
 {BLKREFS
 331
-16D
+168
 102
 }
  70
@@ -2953,7 +2953,7 @@ R_1608_0603__B_163
   0
 BLOCK_RECORD
   5
-16E
+169
 330
 1
 100
@@ -2967,7 +2967,7 @@ R_1608_0603__B_164
 102
 {BLKREFS
 331
-16F
+16A
 102
 }
  70
@@ -2979,7 +2979,7 @@ R_1608_0603__B_164
   0
 BLOCK_RECORD
   5
-170
+16B
 330
 1
 100
@@ -2993,7 +2993,7 @@ R_1608_0603__B_165
 102
 {BLKREFS
 331
-171
+16C
 102
 }
  70
@@ -3005,7 +3005,7 @@ R_1608_0603__B_165
   0
 BLOCK_RECORD
   5
-172
+16D
 330
 1
 100
@@ -3019,7 +3019,7 @@ LED_1206_166
 102
 {BLKREFS
 331
-173
+16E
 102
 }
  70
@@ -3031,7 +3031,7 @@ LED_1206_166
   0
 BLOCK_RECORD
   5
-174
+16F
 330
 1
 100
@@ -3045,7 +3045,7 @@ LED_1206_167
 102
 {BLKREFS
 331
-175
+170
 102
 }
  70
@@ -3057,7 +3057,7 @@ LED_1206_167
   0
 BLOCK_RECORD
   5
-176
+171
 330
 1
 100
@@ -3071,7 +3071,7 @@ LED_1206_168
 102
 {BLKREFS
 331
-177
+172
 102
 }
  70
@@ -3083,7 +3083,7 @@ LED_1206_168
   0
 BLOCK_RECORD
   5
-178
+173
 330
 1
 100
@@ -3097,7 +3097,7 @@ LED_1206_169
 102
 {BLKREFS
 331
-179
+174
 102
 }
  70
@@ -3109,7 +3109,7 @@ LED_1206_169
   0
 BLOCK_RECORD
   5
-17A
+175
 330
 1
 100
@@ -3123,7 +3123,7 @@ LED_1206_170
 102
 {BLKREFS
 331
-17B
+176
 102
 }
  70
@@ -3135,7 +3135,7 @@ LED_1206_170
   0
 BLOCK_RECORD
   5
-17C
+177
 330
 1
 100
@@ -3149,7 +3149,7 @@ LED_1206_171
 102
 {BLKREFS
 331
-17D
+178
 102
 }
  70
@@ -3161,7 +3161,7 @@ LED_1206_171
   0
 BLOCK_RECORD
   5
-17E
+179
 330
 1
 100
@@ -3175,7 +3175,7 @@ GP2S700HCP_B_172
 102
 {BLKREFS
 331
-17F
+17A
 102
 }
  70
@@ -3187,7 +3187,7 @@ GP2S700HCP_B_172
   0
 BLOCK_RECORD
   5
-180
+17B
 330
 1
 100
@@ -3201,7 +3201,7 @@ GP2S700HCP_B_173
 102
 {BLKREFS
 331
-181
+17C
 102
 }
  70
@@ -3213,7 +3213,7 @@ GP2S700HCP_B_173
   0
 BLOCK_RECORD
   5
-182
+17D
 330
 1
 100
@@ -3227,7 +3227,7 @@ GP2S700HCP_B_174
 102
 {BLKREFS
 331
-183
+17E
 102
 }
  70
@@ -3239,7 +3239,7 @@ GP2S700HCP_B_174
   0
 BLOCK_RECORD
   5
-184
+17F
 330
 1
 100
@@ -3248,6 +3248,58 @@ AcDbSymbolTableRecord
 AcDbBlockTableRecord
   2
 R_1608_0603__175
+340
+0
+102
+{BLKREFS
+331
+180
+102
+}
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+181
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+SOT_323_B_176
+340
+0
+102
+{BLKREFS
+331
+182
+102
+}
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+183
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+MTHOLE_177
 340
 0
 102
@@ -3273,65 +3325,13 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-SOT_323_B_176
-340
-0
-102
-{BLKREFS
-331
-187
-102
-}
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-188
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-MTHOLE_177
-340
-0
-102
-{BLKREFS
-331
-18A
-102
-}
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-18B
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
 MTHOLE_178
 340
 0
 102
 {BLKREFS
 331
-18D
+188
 102
 }
  70
@@ -3343,7 +3343,7 @@ MTHOLE_178
   0
 BLOCK_RECORD
   5
-18E
+189
 330
 1
 100
@@ -3357,7 +3357,7 @@ MOLEX4_179
 102
 {BLKREFS
 331
-193
+18E
 102
 }
  70
@@ -3369,7 +3369,7 @@ MOLEX4_179
   0
 BLOCK_RECORD
   5
-194
+18F
 330
 1
 100
@@ -3383,7 +3383,7 @@ LED_1206_180
 102
 {BLKREFS
 331
-195
+190
 102
 }
  70
@@ -3521,9 +3521,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-196
+191
 330
-118
+113
 100
 AcDbEntity
   8
@@ -3546,2036 +3546,2112 @@ R_1608_0603__B_121
 
   0
 ENDBLK
+  5
+192
+330
+113
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+193
+330
+115
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+R_1005_0402__B_122
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1005_0402__B_122
+  1
+
+  0
+ENDBLK
+  5
+194
+330
+115
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+195
+330
+117
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+R_1005_0402__B_123
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1005_0402__B_123
+  1
+
+  0
+ENDBLK
+  5
+196
+330
+117
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
   5
 197
 330
-118
+119
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+C_1608_0603__124
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+C_1608_0603__124
+  1
+
   0
-BLOCK
+ENDBLK
   5
 198
 330
-11A
+119
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1005_0402__B_122
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1005_0402__B_122
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 199
 330
-11A
+11B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+C_1608_0603__125
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+C_1608_0603__125
+  1
+
   0
-BLOCK
+ENDBLK
   5
 19A
 330
-11C
+11B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1005_0402__B_123
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1005_0402__B_123
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 19B
 330
-11C
+11D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+C_1608_0603__126
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+C_1608_0603__126
+  1
+
   0
-BLOCK
+ENDBLK
   5
 19C
 330
-11E
+11D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-C_1608_0603__124
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-C_1608_0603__124
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 19D
 330
-11E
+11F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+C_1608_0603__127
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+C_1608_0603__127
+  1
+
   0
-BLOCK
+ENDBLK
   5
 19E
 330
-120
+11F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-C_1608_0603__125
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-C_1608_0603__125
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 19F
 330
-120
+121
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+C_1608_0603__128
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+C_1608_0603__128
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1A0
 330
-122
+121
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-C_1608_0603__126
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-C_1608_0603__126
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1A1
 330
-122
+123
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+C_1608_0603__129
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+C_1608_0603__129
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1A2
 330
-124
+123
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-C_1608_0603__127
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-C_1608_0603__127
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1A3
 330
-124
+125
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+C_1608_0603__130
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+C_1608_0603__130
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1A4
 330
-126
+125
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-C_1608_0603__128
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-C_1608_0603__128
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1A5
 330
-126
+127
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+C_2012_0805__B_131
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+C_2012_0805__B_131
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1A6
 330
-128
+127
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-C_1608_0603__129
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-C_1608_0603__129
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1A7
 330
-128
+129
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+SOIC127P1030X265_16N_B_132
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+SOIC127P1030X265_16N_B_132
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1A8
 330
-12A
+129
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-C_1608_0603__130
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-C_1608_0603__130
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1A9
 330
-12A
+12B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+SOT_323_B_133
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+SOT_323_B_133
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1AA
 330
-12C
+12B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-C_2012_0805__B_131
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-C_2012_0805__B_131
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1AB
 330
-12C
+12D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+SOT_323_B_134
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+SOT_323_B_134
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1AC
 330
-12E
+12D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-SOIC127P1030X265_16N_B_132
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-SOIC127P1030X265_16N_B_132
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1AD
 330
-12E
+12F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+SOT_323_B_135
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+SOT_323_B_135
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1AE
 330
-130
+12F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-SOT_323_B_133
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-SOT_323_B_133
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1AF
 330
-130
+131
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+SOT_323_B_136
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+SOT_323_B_136
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1B0
 330
-132
+131
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-SOT_323_B_134
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-SOT_323_B_134
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1B1
 330
-132
+133
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+SOT_323_B_137
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+SOT_323_B_137
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1B2
 330
-134
+133
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-SOT_323_B_135
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-SOT_323_B_135
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1B3
 330
-134
+135
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+SOT_323_B_138
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+SOT_323_B_138
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1B4
 330
-136
+135
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-SOT_323_B_136
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-SOT_323_B_136
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1B5
 330
-136
+137
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+SOT_323_B_139
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+SOT_323_B_139
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1B6
 330
-138
+137
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-SOT_323_B_137
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-SOT_323_B_137
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1B7
 330
-138
+139
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+C_1608_0603__B_140
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+C_1608_0603__B_140
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1B8
 330
-13A
+139
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-SOT_323_B_138
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-SOT_323_B_138
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1B9
 330
-13A
+13B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+GP2S700HCP_B_141
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+GP2S700HCP_B_141
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1BA
 330
-13C
+13B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-SOT_323_B_139
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-SOT_323_B_139
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1BB
 330
-13C
+13D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+GP2S700HCP_B_142
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+GP2S700HCP_B_142
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1BC
 330
-13E
+13D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-C_1608_0603__B_140
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-C_1608_0603__B_140
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1BD
 330
-13E
+13F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+GP2S700HCP_B_143
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+GP2S700HCP_B_143
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1BE
 330
-140
+13F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-GP2S700HCP_B_141
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-GP2S700HCP_B_141
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1BF
 330
-140
+141
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+GP2S700HCP_B_144
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+GP2S700HCP_B_144
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1C0
 330
-142
+141
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-GP2S700HCP_B_142
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-GP2S700HCP_B_142
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1C1
 330
-142
+143
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__145
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__145
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1C2
 330
-144
+143
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-GP2S700HCP_B_143
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-GP2S700HCP_B_143
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1C3
 330
-144
+145
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__146
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__146
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1C4
 330
-146
+145
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-GP2S700HCP_B_144
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-GP2S700HCP_B_144
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1C5
 330
-146
+147
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__147
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__147
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1C6
 330
-148
+147
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__145
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__145
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1C7
 330
-148
+149
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__B_148
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__B_148
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1C8
 330
-14A
+149
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__146
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__146
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1C9
 330
-14A
+14B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__149
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__149
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1CA
 330
-14C
+14B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__147
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__147
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1CB
 330
-14C
+14D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__150
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__150
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1CC
 330
-14E
+14D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__B_148
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__B_148
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1CD
 330
-14E
+14F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__151
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__151
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1CE
 330
-150
+14F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__149
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__149
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1CF
 330
-150
+151
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_3216_1206__B_152
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_3216_1206__B_152
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1D0
 330
-152
+151
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__150
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__150
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1D1
 330
-152
+153
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_3216_1206__B_153
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_3216_1206__B_153
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1D2
 330
-154
+153
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__151
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__151
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1D3
 330
-154
+155
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_3216_1206__B_154
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_3216_1206__B_154
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1D4
 330
-156
+155
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_2012_0805__B_152
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_2012_0805__B_152
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1D5
 330
-156
+157
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_3216_1206__B_155
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_3216_1206__B_155
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1D6
 330
-158
+157
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_2012_0805__B_153
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_2012_0805__B_153
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1D7
 330
-158
+159
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_3216_1206__B_156
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_3216_1206__B_156
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1D8
 330
-15A
+159
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_2012_0805__B_154
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_2012_0805__B_154
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1D9
 330
-15A
+15B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_3216_1206__B_157
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_3216_1206__B_157
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1DA
 330
-15C
+15B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_2012_0805__B_155
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_2012_0805__B_155
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1DB
 330
-15C
+15D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_3216_1206__B_158
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_3216_1206__B_158
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1DC
 330
-15E
+15D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_2012_0805__B_156
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_2012_0805__B_156
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1DD
 330
-15E
+15F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__B_159
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__B_159
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1DE
 330
-160
+15F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_2012_0805__B_157
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_2012_0805__B_157
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1DF
 330
-160
+161
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__B_160
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__B_160
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1E0
 330
-162
+161
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_2012_0805__B_158
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_2012_0805__B_158
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1E1
 330
-162
+163
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__B_161
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__B_161
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1E2
 330
-164
+163
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__B_159
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__B_159
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1E3
 330
-164
+165
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__B_162
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__B_162
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1E4
 330
-166
+165
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__B_160
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__B_160
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1E5
 330
-166
+167
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__B_163
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__B_163
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1E6
 330
-168
+167
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__B_161
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__B_161
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1E7
 330
-168
+169
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__B_164
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__B_164
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1E8
 330
-16A
+169
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__B_162
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__B_162
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1E9
 330
-16A
+16B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__B_165
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__B_165
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1EA
 330
-16C
+16B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__B_163
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__B_163
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1EB
 330
-16C
+16D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+LED_1206_166
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+LED_1206_166
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1EC
 330
-16E
+16D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__B_164
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__B_164
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1ED
 330
-16E
+16F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+LED_1206_167
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+LED_1206_167
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1EE
 330
-170
+16F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-R_1608_0603__B_165
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-R_1608_0603__B_165
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1EF
 330
-170
+171
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+LED_1206_168
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+LED_1206_168
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1F0
 330
-172
+171
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-LED_1206_166
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-LED_1206_166
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1F1
 330
-172
+173
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+LED_1206_169
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+LED_1206_169
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1F2
 330
-174
+173
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-LED_1206_167
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-LED_1206_167
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1F3
 330
-174
+175
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+LED_1206_170
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+LED_1206_170
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1F4
 330
-176
+175
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-LED_1206_168
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-LED_1206_168
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1F5
 330
-176
+177
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+LED_1206_171
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+LED_1206_171
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1F6
 330
-178
+177
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-LED_1206_169
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-LED_1206_169
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1F7
 330
-178
+179
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+GP2S700HCP_B_172
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+GP2S700HCP_B_172
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1F8
 330
-17A
+179
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-LED_1206_170
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-LED_1206_170
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1F9
 330
-17A
+17B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+GP2S700HCP_B_173
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+GP2S700HCP_B_173
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1FA
 330
-17C
+17B
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-LED_1206_171
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-LED_1206_171
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1FB
 330
-17C
+17D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+GP2S700HCP_B_174
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+GP2S700HCP_B_174
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1FC
 330
-17E
+17D
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-GP2S700HCP_B_172
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-GP2S700HCP_B_172
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1FD
 330
-17E
+17F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+R_1608_0603__175
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+R_1608_0603__175
+  1
+
   0
-BLOCK
+ENDBLK
   5
 1FE
 330
-180
+17F
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-GP2S700HCP_B_173
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-GP2S700HCP_B_173
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 1FF
 330
-180
+181
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockEnd
+AcDbBlockBegin
+  2
+SOT_323_B_176
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+SOT_323_B_176
+  1
+
   0
-BLOCK
+ENDBLK
   5
 200
 330
-182
+181
 100
 AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-GP2S700HCP_B_174
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-GP2S700HCP_B_174
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 201
 330
-182
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-202
-330
-184
+183
 100
 AcDbEntity
   8
@@ -5583,7 +5659,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-R_1608_0603__175
+MTHOLE_177
  70
      0
  10
@@ -5593,15 +5669,35 @@ R_1608_0603__175
  30
 0.0
   3
-R_1608_0603__175
+MTHOLE_177
   1
 
   0
+CIRCLE
+  5
+184
+330
+183
+100
+AcDbEntity
+  8
+Pad Holes
+100
+AcDbCircle
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.59999934
+  0
 ENDBLK
   5
-203
+202
 330
-184
+183
 100
 AcDbEntity
   8
@@ -5610,6 +5706,52 @@ AcDbEntity
 AcDbBlockEnd
   0
 BLOCK
+  5
+203
+330
+186
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+MTHOLE_178
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+MTHOLE_178
+  1
+
+  0
+CIRCLE
+  5
+187
+330
+186
+100
+AcDbEntity
+  8
+Pad Holes
+100
+AcDbCircle
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.59999934
+  0
+ENDBLK
   5
 204
 330
@@ -5619,155 +5761,13 @@ AcDbEntity
   8
 0
 100
-AcDbBlockBegin
-  2
-SOT_323_B_176
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-SOT_323_B_176
-  1
-
+AcDbBlockEnd
   0
-ENDBLK
+BLOCK
   5
 205
 330
-186
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-206
-330
-188
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-MTHOLE_177
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-MTHOLE_177
-  1
-
-  0
-CIRCLE
-  5
 189
-330
-188
-100
-AcDbEntity
-  8
-Pad Holes
-100
-AcDbCircle
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 40
-1.59999934
-  0
-ENDBLK
-  5
-207
-330
-188
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-208
-330
-18B
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-MTHOLE_178
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-MTHOLE_178
-  1
-
-  0
-CIRCLE
-  5
-18C
-330
-18B
-100
-AcDbEntity
-  8
-Pad Holes
-100
-AcDbCircle
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 40
-1.59999934
-  0
-ENDBLK
-  5
-209
-330
-18B
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-20A
-330
-18E
 100
 AcDbEntity
   8
@@ -5791,9 +5791,9 @@ MOLEX4_179
   0
 CIRCLE
   5
-18F
+18A
 330
-18E
+189
 100
 AcDbEntity
   8
@@ -5811,9 +5811,9 @@ AcDbCircle
   0
 CIRCLE
   5
-190
+18B
 330
-18E
+189
 100
 AcDbEntity
   8
@@ -5831,9 +5831,9 @@ AcDbCircle
   0
 CIRCLE
   5
-191
+18C
 330
-18E
+189
 100
 AcDbEntity
   8
@@ -5851,9 +5851,9 @@ AcDbCircle
   0
 CIRCLE
   5
-192
+18D
 330
-18E
+189
 100
 AcDbEntity
   8
@@ -5871,9 +5871,9 @@ AcDbCircle
   0
 ENDBLK
   5
-20B
+206
 330
-18E
+189
 100
 AcDbEntity
   8
@@ -5883,9 +5883,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-20C
+207
 330
-194
+18F
 100
 AcDbEntity
   8
@@ -5909,9 +5909,9 @@ LED_1206_180
   0
 ENDBLK
   5
-20D
+208
 330
-194
+18F
 100
 AcDbEntity
   8
@@ -6277,13 +6277,13 @@ Via Holes
 100
 AcDbCircle
  10
-36.92563608
+0.7000011399999999
  20
-20.86341268
+5.00000016
  30
 0.0
  40
-0.2499995
+0.1499997
   0
 CIRCLE
   5
@@ -6297,9 +6297,9 @@ Via Holes
 100
 AcDbCircle
  10
-25.80748712
+2.20000068
  20
-18.94806472
+7.799999639999999
  30
 0.0
  40
@@ -6317,13 +6317,13 @@ Via Holes
 100
 AcDbCircle
  10
-36.40000086
+12.8999996
  20
-22.50000072
+5.8000011
  30
 0.0
  40
-0.1499997
+0.2499995
   0
 CIRCLE
   5
@@ -6337,9 +6337,9 @@ Via Holes
 100
 AcDbCircle
  10
-23.90658922
+13.2999988
  20
-15.29919216
+2.40000028
  30
 0.0
  40
@@ -6357,13 +6357,13 @@ Via Holes
 100
 AcDbCircle
  10
-10.59999912
+25.4999998
  20
-1.59999934
+2.50000008
  30
 0.0
  40
-0.2499995
+0.1499997
   0
 CIRCLE
   5
@@ -6377,9 +6377,9 @@ Via Holes
 100
 AcDbCircle
  10
-21.59
+25.1000006
  20
-1.651
+6.000000699999999
  30
 0.0
  40
@@ -6397,13 +6397,13 @@ Via Holes
 100
 AcDbCircle
  10
-34.036
+37.8000006
  20
-1.651
+2.50000008
  30
 0.0
  40
-0.2499995
+0.1499997
   0
 CIRCLE
   5
@@ -6417,9 +6417,9 @@ Via Holes
 100
 AcDbCircle
  10
-46.228
+37.600001
  20
-1.524
+6.300000099999999
  30
 0.0
  40
@@ -6437,9 +6437,9 @@ Via Holes
 100
 AcDbCircle
  10
-58.674
+50.09999886
  20
-1.524
+6.100000499999999
  30
 0.0
  40
@@ -6457,17 +6457,97 @@ Via Holes
 100
 AcDbCircle
  10
-83.31199999999998
+86.69999931999999
  20
-1.524
+2.10000088
  30
 0.0
  40
-0.2499995
+0.1499997
   0
 CIRCLE
   5
 7A
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+74.80000025999999
+ 20
+2.50000008
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+7B
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+62.69999906
+ 20
+2.40000028
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+7C
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+50.300001
+ 20
+2.30000048
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+7D
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+51.60000094
+ 20
+2.30000048
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+7E
 330
 1F
 100
@@ -6487,7 +6567,247 @@ AcDbCircle
   0
 CIRCLE
   5
-7B
+7F
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+62.49999945999999
+ 20
+6.599999499999999
+ 30
+0.0
+ 40
+0.2499995
+  0
+CIRCLE
+  5
+80
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+75.19999945999999
+ 20
+7.600000039999999
+ 30
+0.0
+ 40
+0.2499995
+  0
+CIRCLE
+  5
+81
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+36.92563608
+ 20
+20.86341268
+ 30
+0.0
+ 40
+0.2499995
+  0
+CIRCLE
+  5
+82
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+25.80748712
+ 20
+18.94806472
+ 30
+0.0
+ 40
+0.2499995
+  0
+CIRCLE
+  5
+83
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+36.40000086
+ 20
+22.50000072
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+84
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+23.90658922
+ 20
+15.29919216
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+85
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+10.59999912
+ 20
+1.59999934
+ 30
+0.0
+ 40
+0.2499995
+  0
+CIRCLE
+  5
+86
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+21.59
+ 20
+1.651
+ 30
+0.0
+ 40
+0.2499995
+  0
+CIRCLE
+  5
+87
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+34.036
+ 20
+1.651
+ 30
+0.0
+ 40
+0.2499995
+  0
+CIRCLE
+  5
+88
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+46.228
+ 20
+1.524
+ 30
+0.0
+ 40
+0.2499995
+  0
+CIRCLE
+  5
+89
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+58.674
+ 20
+1.524
+ 30
+0.0
+ 40
+0.2499995
+  0
+CIRCLE
+  5
+8A
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+83.31199999999998
+ 20
+1.524
+ 30
+0.0
+ 40
+0.2499995
+  0
+CIRCLE
+  5
+8B
 330
 1F
 100
@@ -6507,7 +6827,7 @@ AcDbCircle
   0
 CIRCLE
   5
-7C
+8C
 330
 1F
 100
@@ -6527,7 +6847,7 @@ AcDbCircle
   0
 CIRCLE
   5
-7D
+8D
 330
 1F
 100
@@ -6547,7 +6867,7 @@ AcDbCircle
   0
 CIRCLE
   5
-7E
+8E
 330
 1F
 100
@@ -6567,7 +6887,7 @@ AcDbCircle
   0
 CIRCLE
   5
-7F
+8F
 330
 1F
 100
@@ -6587,7 +6907,7 @@ AcDbCircle
   0
 CIRCLE
   5
-80
+90
 330
 1F
 100
@@ -6607,7 +6927,7 @@ AcDbCircle
   0
 CIRCLE
   5
-81
+91
 330
 1F
 100
@@ -6627,7 +6947,7 @@ AcDbCircle
   0
 CIRCLE
   5
-82
+92
 330
 1F
 100
@@ -6647,7 +6967,7 @@ AcDbCircle
   0
 CIRCLE
   5
-83
+93
 330
 1F
 100
@@ -6667,7 +6987,7 @@ AcDbCircle
   0
 CIRCLE
   5
-84
+94
 330
 1F
 100
@@ -6687,7 +7007,7 @@ AcDbCircle
   0
 CIRCLE
   5
-85
+95
 330
 1F
 100
@@ -6707,27 +7027,7 @@ AcDbCircle
   0
 CIRCLE
   5
-86
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-77.20000054
- 20
-2.50000008
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-87
+96
 330
 1F
 100
@@ -6747,7 +7047,7 @@ AcDbCircle
   0
 CIRCLE
   5
-88
+97
 330
 1F
 100
@@ -6767,7 +7067,7 @@ AcDbCircle
   0
 CIRCLE
   5
-89
+98
 330
 1F
 100
@@ -6787,27 +7087,7 @@ AcDbCircle
   0
 CIRCLE
   5
-8A
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-71.29999964
- 20
-3.40000082
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-8B
+99
 330
 1F
 100
@@ -6827,7 +7107,7 @@ AcDbCircle
   0
 CIRCLE
   5
-8C
+9A
 330
 1F
 100
@@ -6847,7 +7127,7 @@ AcDbCircle
   0
 CIRCLE
   5
-8D
+9B
 330
 1F
 100
@@ -6867,7 +7147,7 @@ AcDbCircle
   0
 CIRCLE
   5
-8E
+9C
 330
 1F
 100
@@ -6877,9 +7157,9 @@ Via Holes
 100
 AcDbCircle
  10
-62.69999906
+62.59999926
  20
-4.29999902
+5.00000016
  30
 0.0
  40
@@ -6887,27 +7167,7 @@ AcDbCircle
   0
 CIRCLE
   5
-8F
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-64.20000114
- 20
-2.59999988
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-90
+9D
 330
 1F
 100
@@ -6927,7 +7187,7 @@ AcDbCircle
   0
 CIRCLE
   5
-91
+9E
 330
 1F
 100
@@ -6947,7 +7207,7 @@ AcDbCircle
   0
 CIRCLE
   5
-92
+9F
 330
 1F
 100
@@ -6967,7 +7227,7 @@ AcDbCircle
   0
 CIRCLE
   5
-93
+A0
 330
 1F
 100
@@ -6987,7 +7247,7 @@ AcDbCircle
   0
 CIRCLE
   5
-94
+A1
 330
 1F
 100
@@ -7007,7 +7267,7 @@ AcDbCircle
   0
 CIRCLE
   5
-95
+A2
 330
 1F
 100
@@ -7027,7 +7287,7 @@ AcDbCircle
   0
 CIRCLE
   5
-96
+A3
 330
 1F
 100
@@ -7047,7 +7307,7 @@ AcDbCircle
   0
 CIRCLE
   5
-97
+A4
 330
 1F
 100
@@ -7067,7 +7327,7 @@ AcDbCircle
   0
 CIRCLE
   5
-98
+A5
 330
 1F
 100
@@ -7087,7 +7347,7 @@ AcDbCircle
   0
 CIRCLE
   5
-99
+A6
 330
 1F
 100
@@ -7107,7 +7367,7 @@ AcDbCircle
   0
 CIRCLE
   5
-9A
+A7
 330
 1F
 100
@@ -7127,7 +7387,7 @@ AcDbCircle
   0
 CIRCLE
   5
-9B
+A8
 330
 1F
 100
@@ -7147,7 +7407,7 @@ AcDbCircle
   0
 CIRCLE
   5
-9C
+A9
 330
 1F
 100
@@ -7167,7 +7427,7 @@ AcDbCircle
   0
 CIRCLE
   5
-9D
+AA
 330
 1F
 100
@@ -7187,7 +7447,7 @@ AcDbCircle
   0
 CIRCLE
   5
-9E
+AB
 330
 1F
 100
@@ -7207,7 +7467,7 @@ AcDbCircle
   0
 CIRCLE
   5
-9F
+AC
 330
 1F
 100
@@ -7227,7 +7487,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A0
+AD
 330
 1F
 100
@@ -7247,7 +7507,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A1
+AE
 330
 1F
 100
@@ -7267,7 +7527,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A2
+AF
 330
 1F
 100
@@ -7287,7 +7547,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3
+B0
 330
 1F
 100
@@ -7297,9 +7557,9 @@ Via Holes
 100
 AcDbCircle
  10
-27.99999988
+28.19999948
  20
-2.59999988
+2.50000008
  30
 0.0
  40
@@ -7307,7 +7567,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A4
+B1
 330
 1F
 100
@@ -7327,7 +7587,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A5
+B2
 330
 1F
 100
@@ -7347,7 +7607,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A6
+B3
 330
 1F
 100
@@ -7367,7 +7627,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A7
+B4
 330
 1F
 100
@@ -7387,7 +7647,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A8
+B5
 330
 1F
 100
@@ -7407,7 +7667,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A9
+B6
 330
 1F
 100
@@ -7427,27 +7687,7 @@ AcDbCircle
   0
 CIRCLE
   5
-AA
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-15.00000048
- 20
-2.59999988
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-AB
+B7
 330
 1F
 100
@@ -7467,7 +7707,7 @@ AcDbCircle
   0
 CIRCLE
   5
-AC
+B8
 330
 1F
 100
@@ -7487,7 +7727,7 @@ AcDbCircle
   0
 CIRCLE
   5
-AD
+B9
 330
 1F
 100
@@ -7507,7 +7747,7 @@ AcDbCircle
   0
 CIRCLE
   5
-AE
+BA
 330
 1F
 100
@@ -7527,7 +7767,7 @@ AcDbCircle
   0
 CIRCLE
   5
-AF
+BB
 330
 1F
 100
@@ -7547,7 +7787,7 @@ AcDbCircle
   0
 CIRCLE
   5
-B0
+BC
 330
 1F
 100
@@ -7567,7 +7807,7 @@ AcDbCircle
   0
 CIRCLE
   5
-B1
+BD
 330
 1F
 100
@@ -7587,7 +7827,7 @@ AcDbCircle
   0
 CIRCLE
   5
-B2
+BE
 330
 1F
 100
@@ -7607,7 +7847,7 @@ AcDbCircle
   0
 CIRCLE
   5
-B3
+BF
 330
 1F
 100
@@ -7627,7 +7867,7 @@ AcDbCircle
   0
 CIRCLE
   5
-B4
+C0
 330
 1F
 100
@@ -7647,7 +7887,7 @@ AcDbCircle
   0
 CIRCLE
   5
-B5
+C1
 330
 1F
 100
@@ -7667,7 +7907,7 @@ AcDbCircle
   0
 CIRCLE
   5
-B6
+C2
 330
 1F
 100
@@ -7687,7 +7927,7 @@ AcDbCircle
   0
 CIRCLE
   5
-B7
+C3
 330
 1F
 100
@@ -7707,7 +7947,7 @@ AcDbCircle
   0
 CIRCLE
   5
-B8
+C4
 330
 1F
 100
@@ -7727,7 +7967,7 @@ AcDbCircle
   0
 CIRCLE
   5
-B9
+C5
 330
 1F
 100
@@ -7747,7 +7987,7 @@ AcDbCircle
   0
 CIRCLE
   5
-BA
+C6
 330
 1F
 100
@@ -7767,7 +8007,7 @@ AcDbCircle
   0
 CIRCLE
   5
-BB
+C7
 330
 1F
 100
@@ -7787,7 +8027,7 @@ AcDbCircle
   0
 CIRCLE
   5
-BC
+C8
 330
 1F
 100
@@ -7807,7 +8047,7 @@ AcDbCircle
   0
 CIRCLE
   5
-BD
+C9
 330
 1F
 100
@@ -7827,7 +8067,7 @@ AcDbCircle
   0
 CIRCLE
   5
-BE
+CA
 330
 1F
 100
@@ -7847,7 +8087,7 @@ AcDbCircle
   0
 CIRCLE
   5
-BF
+CB
 330
 1F
 100
@@ -7867,7 +8107,7 @@ AcDbCircle
   0
 CIRCLE
   5
-C0
+CC
 330
 1F
 100
@@ -7887,7 +8127,7 @@ AcDbCircle
   0
 CIRCLE
   5
-C1
+CD
 330
 1F
 100
@@ -7907,7 +8147,7 @@ AcDbCircle
   0
 CIRCLE
   5
-C2
+CE
 330
 1F
 100
@@ -7927,7 +8167,7 @@ AcDbCircle
   0
 CIRCLE
   5
-C3
+CF
 330
 1F
 100
@@ -7947,7 +8187,7 @@ AcDbCircle
   0
 CIRCLE
   5
-C4
+D0
 330
 1F
 100
@@ -7967,7 +8207,7 @@ AcDbCircle
   0
 CIRCLE
   5
-C5
+D1
 330
 1F
 100
@@ -7987,7 +8227,7 @@ AcDbCircle
   0
 CIRCLE
   5
-C6
+D2
 330
 1F
 100
@@ -8007,7 +8247,7 @@ AcDbCircle
   0
 CIRCLE
   5
-C7
+D3
 330
 1F
 100
@@ -8027,7 +8267,7 @@ AcDbCircle
   0
 CIRCLE
   5
-C8
+D4
 330
 1F
 100
@@ -8047,7 +8287,7 @@ AcDbCircle
   0
 CIRCLE
   5
-C9
+D5
 330
 1F
 100
@@ -8067,7 +8307,7 @@ AcDbCircle
   0
 CIRCLE
   5
-CA
+D6
 330
 1F
 100
@@ -8087,7 +8327,7 @@ AcDbCircle
   0
 CIRCLE
   5
-CB
+D7
 330
 1F
 100
@@ -8107,7 +8347,7 @@ AcDbCircle
   0
 CIRCLE
   5
-CC
+D8
 330
 1F
 100
@@ -8127,7 +8367,7 @@ AcDbCircle
   0
 CIRCLE
   5
-CD
+D9
 330
 1F
 100
@@ -8147,7 +8387,7 @@ AcDbCircle
   0
 CIRCLE
   5
-CE
+DA
 330
 1F
 100
@@ -8167,7 +8407,7 @@ AcDbCircle
   0
 CIRCLE
   5
-CF
+DB
 330
 1F
 100
@@ -8187,7 +8427,7 @@ AcDbCircle
   0
 CIRCLE
   5
-D0
+DC
 330
 1F
 100
@@ -8207,7 +8447,7 @@ AcDbCircle
   0
 CIRCLE
   5
-D1
+DD
 330
 1F
 100
@@ -8227,7 +8467,7 @@ AcDbCircle
   0
 CIRCLE
   5
-D2
+DE
 330
 1F
 100
@@ -8247,7 +8487,7 @@ AcDbCircle
   0
 CIRCLE
   5
-D3
+DF
 330
 1F
 100
@@ -8267,7 +8507,7 @@ AcDbCircle
   0
 CIRCLE
   5
-D4
+E0
 330
 1F
 100
@@ -8287,7 +8527,7 @@ AcDbCircle
   0
 CIRCLE
   5
-D5
+E1
 330
 1F
 100
@@ -8307,7 +8547,7 @@ AcDbCircle
   0
 CIRCLE
   5
-D6
+E2
 330
 1F
 100
@@ -8327,7 +8567,7 @@ AcDbCircle
   0
 CIRCLE
   5
-D7
+E3
 330
 1F
 100
@@ -8339,7 +8579,7 @@ AcDbCircle
  10
 1.00000054
  20
-7.400000439999999
+7.69999984
  30
 0.0
  40
@@ -8347,7 +8587,7 @@ AcDbCircle
   0
 CIRCLE
   5
-D8
+E4
 330
 1F
 100
@@ -8367,246 +8607,6 @@ AcDbCircle
   0
 CIRCLE
   5
-D9
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-1.10000034
- 20
-2.59999988
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-DA
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-1.00000054
- 20
-0.7000011399999999
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-DB
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-5.90000852
- 20
-0.7000011399999999
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-DC
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-11.30000788
- 20
-0.7000011399999999
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-DD
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-16.70000724
- 20
-0.7000011399999999
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-DE
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-22.1000066
- 20
-0.7000011399999999
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-DF
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-27.50000596
- 20
-0.7000011399999999
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-E0
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-32.90000532
- 20
-0.7000011399999999
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-E1
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-38.30000468
- 20
-0.7000011399999999
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-E2
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-43.70000404
- 20
-0.7000011399999999
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-E3
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-49.1000034
- 20
-0.7000011399999999
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-E4
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-54.50000276
- 20
-0.7000011399999999
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
 E5
 330
 1F
@@ -8617,7 +8617,7 @@ Via Holes
 100
 AcDbCircle
  10
-59.90000212
+1.00000054
  20
 0.7000011399999999
  30
@@ -8637,7 +8637,7 @@ Via Holes
 100
 AcDbCircle
  10
-65.30000148
+5.90000852
  20
 0.7000011399999999
  30
@@ -8657,7 +8657,7 @@ Via Holes
 100
 AcDbCircle
  10
-70.3999989
+11.30000788
  20
 0.7000011399999999
  30
@@ -8677,7 +8677,7 @@ Via Holes
 100
 AcDbCircle
  10
-76.1000002
+16.70000724
  20
 0.7000011399999999
  30
@@ -8697,7 +8697,7 @@ Via Holes
 100
 AcDbCircle
  10
-81.49999955999999
+22.1000066
  20
 0.7000011399999999
  30
@@ -8717,9 +8717,9 @@ Via Holes
 100
 AcDbCircle
  10
-85.00000018
+27.50000596
  20
-1.00000054
+0.7000011399999999
  30
 0.0
  40
@@ -8737,9 +8737,9 @@ Via Holes
 100
 AcDbCircle
  10
-87.50000026
+32.90000532
  20
-1.00000054
+0.7000011399999999
  30
 0.0
  40
@@ -8757,9 +8757,9 @@ Via Holes
 100
 AcDbCircle
  10
-87.50000026
+38.30000468
  20
-3.50000062
+0.7000011399999999
  30
 0.0
  40
@@ -8768,6 +8768,206 @@ AcDbCircle
 CIRCLE
   5
 ED
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+43.70000404
+ 20
+0.7000011399999999
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+EE
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+49.1000034
+ 20
+0.7000011399999999
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+EF
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+54.50000276
+ 20
+0.7000011399999999
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+F0
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+59.90000212
+ 20
+0.7000011399999999
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+F1
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+65.30000148
+ 20
+0.7000011399999999
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+F2
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+70.3999989
+ 20
+0.7000011399999999
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+F3
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+76.1000002
+ 20
+0.7000011399999999
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+F4
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+81.49999955999999
+ 20
+0.7000011399999999
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+F5
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+85.00000018
+ 20
+1.00000054
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+F6
+330
+1F
+100
+AcDbEntity
+  8
+Via Holes
+100
+AcDbCircle
+ 10
+87.50000026
+ 20
+1.00000054
+ 30
+0.0
+ 40
+0.1499997
+  0
+CIRCLE
+  5
+F7
 330
 1F
 100
@@ -8787,7 +8987,7 @@ AcDbCircle
   0
 CIRCLE
   5
-EE
+F8
 330
 1F
 100
@@ -8807,7 +9007,7 @@ AcDbCircle
   0
 CIRCLE
   5
-EF
+F9
 330
 1F
 100
@@ -8827,7 +9027,7 @@ AcDbCircle
   0
 CIRCLE
   5
-F0
+FA
 330
 1F
 100
@@ -8847,287 +9047,7 @@ AcDbCircle
   0
 CIRCLE
   5
-F1
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-86.67449771999999
- 20
-2.07449928
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-F2
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-74.87449846
- 20
-2.67449808
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-F3
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-75.09999966
- 20
-5.8000011
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-F4
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-62.57449765999999
- 20
-2.67449808
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-F5
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-62.79785255999999
- 20
-5.84494132
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-F6
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-49.97449745999999
- 20
-2.57449828
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-F7
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-50.43818461999999
- 20
-5.86780132
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-F8
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-37.8744988
- 20
-2.77449788
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-F9
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-37.90585256
- 20
-5.84494132
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-FA
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-25.3744984
- 20
-2.67449808
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
 FB
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-25.45985256
- 20
-5.98494612
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-FC
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-0.8410575
- 20
-5.78094094
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-FD
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-13.24105556
- 20
-5.78094094
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-FE
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-13.2744972
- 20
-2.67449808
- 30
-0.0
- 40
-0.2499995
-  0
-CIRCLE
-  5
-FF
 330
 1F
 100
@@ -9147,7 +9067,7 @@ AcDbCircle
   0
 CIRCLE
   5
-100
+FC
 330
 1F
 100
@@ -9167,27 +9087,7 @@ AcDbCircle
   0
 CIRCLE
   5
-101
-330
-1F
-100
-AcDbEntity
-  8
-Via Holes
-100
-AcDbCircle
- 10
-51.29999899999999
- 20
-2.59999988
- 30
-0.0
- 40
-0.1499997
-  0
-CIRCLE
-  5
-102
+FD
 330
 1F
 100
@@ -9207,7 +9107,7 @@ AcDbCircle
   0
 CIRCLE
   5
-103
+FE
 330
 1F
 100
@@ -9227,7 +9127,7 @@ AcDbCircle
   0
 CIRCLE
   5
-104
+FF
 330
 1F
 100
@@ -9247,7 +9147,7 @@ AcDbCircle
   0
 CIRCLE
   5
-105
+100
 330
 1F
 100
@@ -9267,7 +9167,7 @@ AcDbCircle
   0
 CIRCLE
   5
-106
+101
 330
 1F
 100
@@ -9287,7 +9187,7 @@ AcDbCircle
   0
 CIRCLE
   5
-107
+102
 330
 1F
 100
@@ -9307,7 +9207,7 @@ AcDbCircle
   0
 CIRCLE
   5
-108
+103
 330
 1F
 100
@@ -9327,7 +9227,7 @@ AcDbCircle
   0
 CIRCLE
   5
-109
+104
 330
 1F
 100
@@ -9347,7 +9247,7 @@ AcDbCircle
   0
 CIRCLE
   5
-10A
+105
 330
 1F
 100
@@ -9367,7 +9267,7 @@ AcDbCircle
   0
 CIRCLE
   5
-10B
+106
 330
 1F
 100
@@ -9387,7 +9287,7 @@ AcDbCircle
   0
 CIRCLE
   5
-10C
+107
 330
 1F
 100
@@ -9407,7 +9307,7 @@ AcDbCircle
   0
 CIRCLE
   5
-10D
+108
 330
 1F
 100
@@ -9427,7 +9327,7 @@ AcDbCircle
   0
 CIRCLE
   5
-10E
+109
 330
 1F
 100
@@ -9447,7 +9347,7 @@ AcDbCircle
   0
 CIRCLE
   5
-10F
+10A
 330
 1F
 100
@@ -9467,7 +9367,7 @@ AcDbCircle
   0
 CIRCLE
   5
-110
+10B
 330
 1F
 100
@@ -9487,7 +9387,7 @@ AcDbCircle
   0
 CIRCLE
   5
-111
+10C
 330
 1F
 100
@@ -9507,7 +9407,7 @@ AcDbCircle
   0
 CIRCLE
   5
-112
+10D
 330
 1F
 100
@@ -9527,7 +9427,7 @@ AcDbCircle
   0
 CIRCLE
   5
-113
+10E
 330
 1F
 100
@@ -9547,7 +9447,7 @@ AcDbCircle
   0
 CIRCLE
   5
-114
+10F
 330
 1F
 100
@@ -9567,7 +9467,7 @@ AcDbCircle
   0
 CIRCLE
   5
-115
+110
 330
 1F
 100
@@ -9587,7 +9487,7 @@ AcDbCircle
   0
 CIRCLE
   5
-116
+111
 330
 1F
 100
@@ -9607,7 +9507,7 @@ AcDbCircle
   0
 CIRCLE
   5
-117
+112
 330
 1F
 100
@@ -9627,7 +9527,7 @@ AcDbCircle
   0
 INSERT
   5
-119
+114
 330
 1F
 100
@@ -9649,7 +9549,7 @@ R_1608_0603__B_121
   0
 INSERT
   5
-11B
+116
 330
 1F
 100
@@ -9671,7 +9571,7 @@ R_1005_0402__B_122
   0
 INSERT
   5
-11D
+118
 330
 1F
 100
@@ -9693,7 +9593,7 @@ R_1005_0402__B_123
   0
 INSERT
   5
-11F
+11A
 330
 1F
 100
@@ -9715,7 +9615,7 @@ C_1608_0603__124
   0
 INSERT
   5
-121
+11C
 330
 1F
 100
@@ -9737,7 +9637,7 @@ C_1608_0603__125
   0
 INSERT
   5
-123
+11E
 330
 1F
 100
@@ -9759,7 +9659,7 @@ C_1608_0603__126
   0
 INSERT
   5
-125
+120
 330
 1F
 100
@@ -9781,7 +9681,7 @@ C_1608_0603__127
   0
 INSERT
   5
-127
+122
 330
 1F
 100
@@ -9803,7 +9703,7 @@ C_1608_0603__128
   0
 INSERT
   5
-129
+124
 330
 1F
 100
@@ -9825,7 +9725,7 @@ C_1608_0603__129
   0
 INSERT
   5
-12B
+126
 330
 1F
 100
@@ -9847,7 +9747,7 @@ C_1608_0603__130
   0
 INSERT
   5
-12D
+128
 330
 1F
 100
@@ -9869,7 +9769,7 @@ C_2012_0805__B_131
   0
 INSERT
   5
-12F
+12A
 330
 1F
 100
@@ -9891,7 +9791,7 @@ SOIC127P1030X265_16N_B_132
   0
 INSERT
   5
-131
+12C
 330
 1F
 100
@@ -9913,7 +9813,7 @@ SOT_323_B_133
   0
 INSERT
   5
-133
+12E
 330
 1F
 100
@@ -9935,7 +9835,7 @@ SOT_323_B_134
   0
 INSERT
   5
-135
+130
 330
 1F
 100
@@ -9957,7 +9857,7 @@ SOT_323_B_135
   0
 INSERT
   5
-137
+132
 330
 1F
 100
@@ -9979,7 +9879,7 @@ SOT_323_B_136
   0
 INSERT
   5
-139
+134
 330
 1F
 100
@@ -10001,7 +9901,7 @@ SOT_323_B_137
   0
 INSERT
   5
-13B
+136
 330
 1F
 100
@@ -10023,7 +9923,7 @@ SOT_323_B_138
   0
 INSERT
   5
-13D
+138
 330
 1F
 100
@@ -10045,7 +9945,7 @@ SOT_323_B_139
   0
 INSERT
   5
-13F
+13A
 330
 1F
 100
@@ -10067,7 +9967,7 @@ C_1608_0603__B_140
   0
 INSERT
   5
-141
+13C
 330
 1F
 100
@@ -10089,7 +9989,7 @@ GP2S700HCP_B_141
   0
 INSERT
   5
-143
+13E
 330
 1F
 100
@@ -10111,7 +10011,7 @@ GP2S700HCP_B_142
   0
 INSERT
   5
-145
+140
 330
 1F
 100
@@ -10133,7 +10033,7 @@ GP2S700HCP_B_143
   0
 INSERT
   5
-147
+142
 330
 1F
 100
@@ -10155,7 +10055,7 @@ GP2S700HCP_B_144
   0
 INSERT
   5
-149
+144
 330
 1F
 100
@@ -10175,7 +10075,7 @@ R_1608_0603__145
   0
 INSERT
   5
-14B
+146
 330
 1F
 100
@@ -10195,7 +10095,7 @@ R_1608_0603__146
   0
 INSERT
   5
-14D
+148
 330
 1F
 100
@@ -10215,7 +10115,7 @@ R_1608_0603__147
   0
 INSERT
   5
-14F
+14A
 330
 1F
 100
@@ -10237,7 +10137,7 @@ R_1608_0603__B_148
   0
 INSERT
   5
-151
+14C
 330
 1F
 100
@@ -10257,7 +10157,7 @@ R_1608_0603__149
   0
 INSERT
   5
-153
+14E
 330
 1F
 100
@@ -10277,7 +10177,7 @@ R_1608_0603__150
   0
 INSERT
   5
-155
+150
 330
 1F
 100
@@ -10297,7 +10197,7 @@ R_1608_0603__151
   0
 INSERT
   5
-157
+152
 330
 1F
 100
@@ -10307,7 +10207,7 @@ AcDbEntity
 100
 AcDbBlockReference
   2
-R_2012_0805__B_152
+R_3216_1206__B_152
  10
 2.20000068
  20
@@ -10319,7 +10219,7 @@ R_2012_0805__B_152
   0
 INSERT
   5
-159
+154
 330
 1F
 100
@@ -10329,7 +10229,7 @@ AcDbEntity
 100
 AcDbBlockReference
   2
-R_2012_0805__B_153
+R_3216_1206__B_153
  10
 14.59999874
  20
@@ -10341,7 +10241,7 @@ R_2012_0805__B_153
   0
 INSERT
   5
-15B
+156
 330
 1F
 100
@@ -10351,7 +10251,7 @@ AcDbEntity
 100
 AcDbBlockReference
   2
-R_2012_0805__B_154
+R_3216_1206__B_154
  10
 26.81879574
  20
@@ -10363,7 +10263,7 @@ R_2012_0805__B_154
   0
 INSERT
   5
-15D
+158
 330
 1F
 100
@@ -10373,7 +10273,7 @@ AcDbEntity
 100
 AcDbBlockReference
   2
-R_2012_0805__B_155
+R_3216_1206__B_155
  10
 39.26479574
  20
@@ -10385,7 +10285,7 @@ R_2012_0805__B_155
   0
 INSERT
   5
-15F
+15A
 330
 1F
 100
@@ -10395,7 +10295,7 @@ AcDbEntity
 100
 AcDbBlockReference
   2
-R_2012_0805__B_156
+R_3216_1206__B_156
  10
 51.7971278
  20
@@ -10407,7 +10307,7 @@ R_2012_0805__B_156
   0
 INSERT
   5
-161
+15C
 330
 1F
 100
@@ -10417,7 +10317,7 @@ AcDbEntity
 100
 AcDbBlockReference
   2
-R_2012_0805__B_157
+R_3216_1206__B_157
  10
 64.15679574
  20
@@ -10429,7 +10329,7 @@ R_2012_0805__B_157
   0
 INSERT
   5
-163
+15E
 330
 1F
 100
@@ -10439,7 +10339,7 @@ AcDbEntity
 100
 AcDbBlockReference
   2
-R_2012_0805__B_158
+R_3216_1206__B_158
  10
 76.45400253999999
  20
@@ -10451,7 +10351,7 @@ R_2012_0805__B_158
   0
 INSERT
   5
-165
+160
 330
 1F
 100
@@ -10473,7 +10373,7 @@ R_1608_0603__B_159
   0
 INSERT
   5
-167
+162
 330
 1F
 100
@@ -10495,7 +10395,7 @@ R_1608_0603__B_160
   0
 INSERT
   5
-169
+164
 330
 1F
 100
@@ -10517,7 +10417,7 @@ R_1608_0603__B_161
   0
 INSERT
   5
-16B
+166
 330
 1F
 100
@@ -10539,7 +10439,7 @@ R_1608_0603__B_162
   0
 INSERT
   5
-16D
+168
 330
 1F
 100
@@ -10561,7 +10461,7 @@ R_1608_0603__B_163
   0
 INSERT
   5
-16F
+16A
 330
 1F
 100
@@ -10583,7 +10483,7 @@ R_1608_0603__B_164
   0
 INSERT
   5
-171
+16C
 330
 1F
 100
@@ -10605,7 +10505,7 @@ R_1608_0603__B_165
   0
 INSERT
   5
-173
+16E
 330
 1F
 100
@@ -10627,7 +10527,7 @@ LED_1206_166
   0
 INSERT
   5
-175
+170
 330
 1F
 100
@@ -10649,7 +10549,7 @@ LED_1206_167
   0
 INSERT
   5
-177
+172
 330
 1F
 100
@@ -10671,7 +10571,7 @@ LED_1206_168
   0
 INSERT
   5
-179
+174
 330
 1F
 100
@@ -10693,7 +10593,7 @@ LED_1206_169
   0
 INSERT
   5
-17B
+176
 330
 1F
 100
@@ -10715,7 +10615,7 @@ LED_1206_170
   0
 INSERT
   5
-17D
+178
 330
 1F
 100
@@ -10737,7 +10637,7 @@ LED_1206_171
   0
 INSERT
   5
-17F
+17A
 330
 1F
 100
@@ -10759,7 +10659,7 @@ GP2S700HCP_B_172
   0
 INSERT
   5
-181
+17C
 330
 1F
 100
@@ -10781,7 +10681,7 @@ GP2S700HCP_B_173
   0
 INSERT
   5
-183
+17E
 330
 1F
 100
@@ -10803,7 +10703,7 @@ GP2S700HCP_B_174
   0
 INSERT
   5
-185
+180
 330
 1F
 100
@@ -10823,7 +10723,7 @@ R_1608_0603__175
   0
 INSERT
   5
-187
+182
 330
 1F
 100
@@ -10845,7 +10745,7 @@ SOT_323_B_176
   0
 INSERT
   5
-18A
+185
 330
 1F
 100
@@ -10865,7 +10765,7 @@ MTHOLE_177
   0
 INSERT
   5
-18D
+188
 330
 1F
 100
@@ -10885,7 +10785,7 @@ MTHOLE_178
   0
 INSERT
   5
-193
+18E
 330
 1F
 100
@@ -10907,7 +10807,7 @@ MOLEX4_179
   0
 INSERT
   5
-195
+190
 330
 1F
 100
@@ -10945,7 +10845,7 @@ AcDbDictionary
   3
 ACAD_DETAILVIEWSTYLE
 350
-215
+210
   3
 ACAD_GROUP
 350
@@ -10981,7 +10881,7 @@ ACAD_SCALELIST
   3
 ACAD_SECTIONVIEWSTYLE
 350
-216
+211
   3
 ACAD_TABLESTYLE
 350
@@ -10993,11 +10893,11 @@ ACAD_VISUALSTYLE
   3
 ACDB_RECOMPOSE_DATA
 350
-212
+20D
   3
 AcDbVariableDictionary
 350
-20E
+209
   0
 SUN
   5
@@ -11033,7 +10933,7 @@ AcDbSun
   0
 DICTIONARY
   5
-215
+210
 102
 {ACAD_REACTORS
 330
@@ -11285,7 +11185,7 @@ B7
   0
 DICTIONARY
   5
-216
+211
 102
 {ACAD_REACTORS
 330
@@ -11433,7 +11333,7 @@ X-Ray
   0
 XRECORD
   5
-212
+20D
 102
 {ACAD_REACTORS
 330
@@ -11453,7 +11353,7 @@ AcDbXrecord
   0
 DICTIONARY
   5
-20E
+209
 102
 {ACAD_REACTORS
 330
@@ -11469,15 +11369,15 @@ AcDbDictionary
   3
 CANNOSCALE
 350
-20F
+20A
   3
 CMLEADERSTYLE
 350
-214
+20F
   3
 CTABLESTYLE
 350
-213
+20E
   0
 LAYOUT
   5
@@ -11831,7 +11731,7 @@ Model
  11
 226.8741589
  21
-61.41833537999999
+60.91050047999999
  12
 0.0
  22
@@ -12515,7 +12415,7 @@ TABLESTYLE
 102
 {ACAD_XDICTIONARY
 360
-210
+20B
 102
 }
 330
@@ -18993,15 +18893,15 @@ strokes_ogs.tif
   0
 DICTIONARYVAR
   5
-20F
+20A
 102
 {ACAD_REACTORS
 330
-20E
+209
 102
 }
 330
-20E
+209
 100
 DictionaryVariables
 280
@@ -19011,15 +18911,15 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-214
+20F
 102
 {ACAD_REACTORS
 330
-20E
+209
 102
 }
 330
-20E
+209
 100
 DictionaryVariables
 280
@@ -19029,15 +18929,15 @@ Standard
   0
 DICTIONARYVAR
   5
-213
+20E
 102
 {ACAD_REACTORS
 330
-20E
+209
 102
 }
 330
-20E
+209
 100
 DictionaryVariables
 280
@@ -19047,7 +18947,7 @@ Standard
   0
 DICTIONARY
   5
-210
+20B
 330
 5A
 100
@@ -19059,19 +18959,19 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-211
+20C
   0
 CELLSTYLEMAP
   5
-211
+20C
 102
 {ACAD_REACTORS
 330
-210
+20B
 102
 }
 330
-210
+20B
 100
 AcDbCellStyleMap
  90

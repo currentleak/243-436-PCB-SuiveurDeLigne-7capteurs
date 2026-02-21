@@ -5,8 +5,8 @@ C:\Users\kevin.cotton\OneDrive - Cégep Limoilou\_Cours-TGE\243-436-Dev-Prod4-Cer
 File Design Information:
 
 Date:       21-02-26
-Time:       12:29
-Revision:   7e30b6a25f4bc42dff40b7da3276b8dd89504f27
+Time:       18:23
+Revision:   a9d11e334134ff7539e474baf42a48696fe99b6f
 Variant:    No variations
 Units used: mm
 
@@ -39,13 +39,13 @@ Units used: mm
 "U1","ITR1502SR40A/TR8","BottomLayer","GP2S700HCP","80.4378","5.2640","180","PHOTOINTERRUPTER REFLECTIVE 3MM SMD"
 "U7","ITR1502SR40A/TR8","BottomLayer","GP2S700HCP","6.1470","5.1500","180","PHOTOINTERRUPTER REFLECTIVE 3MM SMD"
 "U8","PCF8574T/TR","BottomLayer","SOIC127P1030X265-16N","43.8150","16.5100","180","Remote 8-bit I/O expander for I2C-bus"
-"R14","Res 150R 1% 0805","BottomLayer","R_2012[0805]","2.2000","4.9000","270","Resistor type 1"
-"R13","Res 150R 1% 0805","BottomLayer","R_2012[0805]","14.6000","4.9000","270","Resistor type 1"
-"R12","Res 150R 1% 0805","BottomLayer","R_2012[0805]","26.8188","5.1040","270","Resistor type 1"
-"R11","Res 150R 1% 0805","BottomLayer","R_2012[0805]","39.2648","4.9640","270","Resistor type 1"
-"R10","Res 150R 1% 0805","BottomLayer","R_2012[0805]","51.7971","4.9869","270","Resistor type 1"
-"R9","Res 150R 1% 0805","BottomLayer","R_2012[0805]","64.1568","4.9640","270","Resistor type 1"
-"R8","Res 150R 1% 0805","BottomLayer","R_2012[0805]","76.4540","4.9140","270","Resistor type 1"
+"R14","Res 150R 5% 1206","BottomLayer","R_3216[1206]","2.2000","4.9000","270","Resistor type 1"
+"R13","Res 150R 5% 1206","BottomLayer","R_3216[1206]","14.6000","4.9000","270","Resistor type 1"
+"R12","Res 150R 5% 1206","BottomLayer","R_3216[1206]","26.8188","5.1040","270","Resistor type 1"
+"R11","Res 150R 5% 1206","BottomLayer","R_3216[1206]","39.2648","4.9640","270","Resistor type 1"
+"R10","Res 150R 5% 1206","BottomLayer","R_3216[1206]","51.7971","4.9869","270","Resistor type 1"
+"R9","Res 150R 5% 1206","BottomLayer","R_3216[1206]","64.1568","4.9640","270","Resistor type 1"
+"R8","Res 150R 5% 1206","BottomLayer","R_3216[1206]","76.4540","4.9140","270","Resistor type 1"
 "R25","Res 1k 1% 0603","BottomLayer","R_1608[0603]","53.5000","20.3000","270","Resistor type 1"
 "R24","Res 1k 1% 0603","TopLayer","R_1608[0603]","6.0000","9.0000","0","Resistor type 1"
 "R23","Res 1k 1% 0603","TopLayer","R_1608[0603]","18.0000","9.0000","0","Resistor type 1"
